@@ -1,0 +1,126 @@
+This is the formula.
+
+((WILL*0.8)/2.5)+(LEVEL/4)
+
+----------------------------
+
+((WILL*0.8)/2.5)
+
+This formula decides how the user's will affects their crimes success rate.
+
+Lets show a few examples.
+
+Example 1a.
+
+((WILL*0.7)/17)
+User's will: 100
+
+You start by running the functions in the parentheses.
+
+So it would end up being:
+
+((70)/17)
+
+After that you just run the formula
+
+70/17
+
+Which Equals:
+
+4.1176470588235294117647058823529
+
+So using that formula on a user with 100 will would give them a 4.1176470588235294117647058823529% chance of the user succeeding.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example 2a.
+
+((WILL*0.4)/39)
+User's will: 531
+
+You start by running the functions in the parentheses.
+
+So it would end up being:
+
+((212.4)/39)
+
+After that you just run the formula
+
+212.4/39
+
+Which Equals:
+
+5.4461538461538461538461538461538
+
+So using that formula on a user with 531 will would give them a 5.4461538461538461538461538461538% chance of the user succeeding.
+
+-----------------------------
+
+(LEVEL/4)
+
+This pretty much explains itself.
+
+This formula decides how the user's level affects a user's chance of succeeding a crime.
+
+Lets show a few more examples.
+
+Example 1b.
+
+(LEVEL/21)
+User's level: 51
+
+Basically all you would be doing is:
+
+51/21
+
+So just run the formula which equals:
+
+2.4285714285714285714285714285714
+
+So if this was the only formula the user would have a 2.4285714285714285714285714285714% chance of succeeding.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example 2b.
+
+(LEVEL/54)
+User's level: 98
+
+As the other formula goes:
+
+98/54
+
+So that would equal:
+
+1.8148148148148148148148148148148
+
+If that was the only formula the user would have a 1.8148148148148148148148148148148% chance of succeeding.
+
+-----------------------------
+
+Now we combine the formulas...
+
+-----------------------------
+
+Formula 1
+
+Example 1a+example 1b
+
+4.1176470588235294117647058823529+2.4285714285714285714285714285714=6.546218487394957983193277310923
+
+So by combining the 2 formulas with each-other the chance of succeeding the crime is 6.546218487394957983193277310923%.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Formula 2
+
+Example 2a+example 2b
+
+4.1176470588235294117647058823529+1.8148148148148148148148148148148=5.932461873638344226579520697166
+
+So by combining the 2 formulas with each-other the chance of succeeding the crime is 5.932461873638344226579520697166%.
+
+
+Please note : You can also use html codes in crime texts , initail , sucess failure etc
+
+eg : If you want result to show in red use that colour code with text in the result form.
