@@ -54,22 +54,6 @@ Steps for creating a MySQL Databases with cPanel:
    - Click Add User To Database with full permissions
    - Click go back
 
-Note : Please Do Not Remove Powered By Ravan Scripts without permission.
-
-However, if you would like to use the script without the powered by links you may do so by purchasing a Copyright removal license for a very low fee.
-
 Few files in the package are encrypted to avoid unauthorized distribution of source code .
 
-If you want unencrypted files for customization please write to us .
-
 That's it! It's that easy to do. If you don't use cPanel,that's ok, these steps are basically the same as most hosting companies. If you're still having difficulties feel free to contact support and we'll provide free installation .
-
-If you need also customization of flash header or logo do contact us !
-
-If you are unfamiliar with Flash and Photoshop we can design you custom flash header with your site name and logo for $5 USD each or $10 USD both.
-
-Do to the cheap price of the script we do not permit you remove copyright powered by without purchasing copyright removal.
-
-Copyright removal fee is $10 USD and once purchased you'll receive custom footer without powered by and is applicable to upcoming versions of the script .
-
-Questions? Comments? Need support? Contact Us at support@ravan.info
